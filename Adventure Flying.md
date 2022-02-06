@@ -1,2 +1,5 @@
 Cambodia Flying Club
-https://www.cambodiaflyingclub.com
+http://www.cambodiaflyingclub.com
+
+Thai Flying Club
+http://www.thaiflyingclub.com/
