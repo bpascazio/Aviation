@@ -8,6 +8,10 @@
 
 [Merlin LSA Aeromarine](https://www.aeromarine-lsa.com/)
 
+## Suppliers
+
+[SEA Component Sales](https://www.seaerospace.com/sales)
+
 ## Construction
 
 Clecos
