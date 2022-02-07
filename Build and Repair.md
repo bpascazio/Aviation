@@ -2,6 +2,10 @@
 
 [Just Aircraft](https://justaircraft.com/)
 
+## Experimental and Home Builders
+
+[Super Cub Project](http://www.supercubproject.com/)
+
 ## Construction
 
 Clecos
