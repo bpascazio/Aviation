@@ -6,6 +6,8 @@
 
 [Super Cub Project](http://www.supercubproject.com/)
 
+[Merlin LSA Aeromarine](https://www.aeromarine-lsa.com/)
+
 ## Construction
 
 Clecos
