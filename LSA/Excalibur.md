@@ -4,4 +4,5 @@
 
 ## History
 
-[Quad City Challenger](https://en.wikipedia.org/wiki/Quad_City_Challenger)
+[Quad City Challenger](https://github.com/bpascazio/Aviation/blob/main/LSA/Challenger.md)
+
