@@ -2,7 +2,9 @@ Manufacturer
 
 [Sky Reach](https://www.fly-skyreach.com/)
 
-[Fly Aerosport USA](USA Distributor)
+[Fly Aerosport USA Distributor](https://www.fly-aerosport.com/)
+
+[Kanardia Avionics Slovakia](https://www.kanardia.eu/)
 
 [912 ULS](https://en.wikipedia.org/wiki/Rotax_912)
 
