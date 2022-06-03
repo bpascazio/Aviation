@@ -9,3 +9,5 @@
 * [All About](https://www.youtube.com/watch?v=969mjMaaroY)
 
 * [Matco](http://www.matcomfg.com/)
+
+* [T3 Tailwheel](https://www.airframesalaska.com/T3-Tailwheel-Suspension-Systems-s/1899.htm)
