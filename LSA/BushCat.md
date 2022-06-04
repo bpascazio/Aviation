@@ -10,6 +10,17 @@ Several tyre options are available for use on the BushCat. While the nosegear ve
 
 The Matco 8” rims are on offer purely as a special order for those that wish to fit large Desser brand tyres. For those that go with the oversize tyres, most go with 26” Airstreek (tube is incorporated into the tyre) which fit the standard 6 inch Matco rim. The Desser tyres require the 8” rim with tubeless kit. It is a rare add-on that is ordered but I include it in the price list for the odd occasion someone asks. The Airtrack 8.6 x 6” are used on probably 90% of all BushCat taildraggers flying around the world. They are the right balance of practicality/usability/affordability and last an incredibly long time yet still give the aircraft great off field performance and also look the part.
 
+* normal
+* Airtrack 8.6 x 6 used on 90% of taildragers (is this 800x6 6 ply?) [Aircraft Spruce](https://www.aircraftspruce.com/catalog/lgpages/800-6.php?clickkey=888785)
+* https://shop.desser.com/8.00x6-6-ply-specialty-tires-of-america,-air-trac-tire/ecomm-product-detail/323284/
+** Matco 6" (I think)
+* large
+** [26 Inch Airstreak](https://www.airframesalaska.com/Alaskan-Bushwheel-Airstreak-26-p/26126.r1.htm)
+** Matco 6"
+* huge
+** Matco 8"
+** [People put Dresser Aero Classic](https://shop.desser.com/collections/tundra-tires/)
+
 # Cockpit
 
 [Gizmo Bracket](http://airgizmos.3dcartstores.com/)
