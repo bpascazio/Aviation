@@ -15,6 +15,8 @@ The Matco 8” rims are on offer purely as a special order for those that wish t
 Airtrack 8.6 x 6 used on 90% of taildragers 
 
 [8.5 x 6](https://shop.desser.com/8.50x6-6-ply-specialty-tires-of-america,-air-trac-tire/ecomm-product-detail/323285/)
+[Specialty Tire](https://www.stausaonline.com/)
+
 
 Matco 6" (I think)
 
