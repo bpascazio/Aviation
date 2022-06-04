@@ -8,6 +8,13 @@ Several tyre options are available for use on the BushCat. While the nosegear ve
 
 [Tail Wheel Matco](http://www.matcomfg.com/)
 
+The Matco 8” rims are on offer purely as a special order for those that wish to fit large Desser brand tyres. For those that go with the oversize tyres, most go with 26” Airstreek (tube is incorporated into the tyre) which fit the standard 6 inch Matco rim. The Desser tyres require the 8” rim with tubeless kit. It is a rare add-on that is ordered but I include it in the price list for the odd occasion someone asks. The Airtrack 8.6 x 6” are used on probably 90% of all BushCat taildraggers flying around the world. They are the right balance of practicality/usability/affordability and last an incredibly long time yet still give the aircraft great off field performance and also look the part.
+
+# Cockpit
+
+[Gizmo Bracket](http://airgizmos.3dcartstores.com/)
+[iPad Mini Gen 4-5](http://airgizmos.3dcartstores.com/iPad-mini-Panel-Dock%C2%AE-generation-4-5_p_61.html)
+
 ## Manufacturer
 
 [Sky Reach](https://www.fly-skyreach.com/)
