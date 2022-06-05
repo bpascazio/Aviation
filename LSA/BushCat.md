@@ -2,12 +2,16 @@ Graphics to include black thai cat on white cowling
 thai flag on tail maybe?
 
 cockpit concept
+
 dual screens ipads
+
 https://www.guardianavionics.com/iPad-11-Pro-4th-Gen-iPad-Air-2020-Now-approved-under-NORSEE-_c_1125.html
+
 wingman efis https://www.aircraftinstruments.eu/
+
 uavionic backup use with transponder, full backup of efis with gps
 
-
+http://www.skydrive.co.uk/products.asp?cat=6
 
 
 [Videos](https://www.youtube.com/playlist?list=PLOMPit08oVVmdfw3zxWKy2Q6XJDhNLwZV)
